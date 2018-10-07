@@ -2,6 +2,8 @@
 
 A simple package for flashing the current buffer.
 
+![image](./images/image.gif)
+
 ## Setup
 
 ```el
