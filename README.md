@@ -15,6 +15,6 @@ A simple package for flashing the current buffer.
 
 You can just execute commands bellow.
 
-### flash-background
+### M-x flash-background
 
-### flash-foreground
+### M-x flash-foreground
